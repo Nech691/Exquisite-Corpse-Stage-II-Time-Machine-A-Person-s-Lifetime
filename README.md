@@ -42,11 +42,11 @@ With each movement of the hands, we witness the ups and downs of life. From the 
 In this journey, we experience the unforgiving nature of time and comprehend the preciousness of life. Let us cherish every moment and live a vibrant life, for the passage of time is also our journey of growth and transformation.
 
 ### 🟨 Stage 2
-- Name/Alias:
-- Github account:
-- Published webpage for stage 2:
+- Name/Alias: N J R Echer 
+- Github account: Nech691
+- Published webpage for stage 2: https://nech691.github.io/Exquisite-Corpse-Stage-II-Time-Machine-A-Person-s-Lifetime/ 
 
-*... comments to be added here*
+*For stage II of the Exquisite Corpse in Silico assignment, I selected Noon0v0's project: Time Machine - A Pearson's Lifetime. I changed the original code so that instead of the images changing constantly via an interval, you can now press a button to "time travel". I did this using the createButton command, and altering the code, so that clicking this button would select a random image (out of the images that compose this person's life) and display that until the button is pressed again*
 
 ### 🟩 Stage 3
 - Name/Alias:
